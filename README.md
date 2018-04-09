@@ -7,7 +7,7 @@ Basic usage:
    
   INPUT_DIR is the directory containing video files 
   INPUT_DIR can also be a zip file  
-  OUTPUT_DIR is where RGBD frames and json files are saved  
+  OUTPUT_DIR is where RGB frames are saved  
 Examples:  
 * To process first 100 frames only:  
     ```python3 video_parser.py -i INPUT_DIR -o OUTPUT_DIR -n 100``` 
