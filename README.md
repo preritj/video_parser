@@ -5,7 +5,7 @@ Python script for extracting images from video files
 Basic usage: 
   ```python3 video_parser.py -i INPUT_DIR -o OUTPUT_DIR``` 
    
-  INPUT_DIR is the directory containing video files 
+  INPUT_DIR is the directory containing video files, 
   INPUT_DIR can also be a zip file  
   OUTPUT_DIR is where RGB frames are saved  
 Examples:  
